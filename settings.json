@@ -1,0 +1,45 @@
+{
+  "language": "auto",
+  "theme": "auto",
+
+  "translate": {
+    "default_language": "en",
+    "ignore_languages": ["cs"],
+    "servers": [
+      {
+        "host": "https://translate.afrowave.ltd",
+        "needs_key": true,
+        "api_key": "MASTER_AFROWAVE_KEY_1",
+        "languages_endpoint": "/languages",
+        "translate_endpoint": "/translate",
+        "translate_file_endpoint": "/translate_file",
+        "detect_language_endpoint": "/detect",
+        "retries_on_failure": 10,
+        "wait_second_before_retry": 2
+      },
+      {
+        "host": "http://localhost:5000",
+        "needs_key": false,
+        "languages_endpoint": "/languages",
+        "translate_endpoint": "/translate",
+        "translate_file_endpoint": "/translate_file",
+        "detect_language_endpoint": "/detect",
+        "retries_on_failure": 20,
+        "wait_second_before_retry": 1
+      }
+    ]
+  },
+
+  "targets": {
+    "folder": [
+      "D:/translations/common/",
+      "D:/projects/amt_dicman/locales/"
+    ],
+    "ftp": [
+      "ftp://user:pass@host/dictionaries/"
+    ],
+    "web": [
+      "https://example.com/api/dictionaries/"
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+[project]
+name = "dictionariesmanager"
+version = "0.1.0"
+description = "Manager of the JSON translation in the local FS or on the remote servers - also realtime connection of the AfrowaveBased translation backends"
+authors = [
+    {name = "Mukwano, Afrowave"}
+]
+license = {text = "MIT"}
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "textual (>=4.0.0,<5.0.0)"
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
