@@ -1,5 +1,7 @@
 {
+  "Dictionaries Manager": "Správce slovníků",
   "hello": "Ahoj světe!",
   "app_title": "AMT DicMan",
-  "loading": "Načítám..."
+  "loading": "Načítám...",
+  "Toggle dark mode":"Přepnout tmavý režim"
 }

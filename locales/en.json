@@ -1,5 +1,7 @@
 {
+  "Dictionaries Manager": "Dictionaries Manager",
   "hello": "Hello world!",
   "app_title": "AMT DicMan",
-  "loading": "Loading..."
+  "loading": "Loading...",
+  "Toggle dark mode": "Toggle dark mode"
 }

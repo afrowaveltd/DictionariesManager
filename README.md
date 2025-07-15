@@ -1,2 +1,3 @@
-# dictionary_manager
-python learning
+# The Dictionary manager
+---
+### Helps with your localization and internalization
