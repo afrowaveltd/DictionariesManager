@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d726277b-5c7d-470b-91f4-339051c06fdd" name="Changes" comment="Fixed localization and Settings loading - seems to work fine">
-      <change beforePath="$PROJECT_DIR$/.idea/DictionariesManager.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/DictionariesManager.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/locales/cs.json" beforeDir="false" afterPath="$PROJECT_DIR$/locales/cs.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/locales/en.json" beforeDir="false" afterPath="$PROJECT_DIR$/locales/en.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/theme_dark.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/theme_dark.css" afterDir="false" />
-    </list>
+    <list default="true" id="d726277b-5c7d-470b-91f4-339051c06fdd" name="Changes" comment="Fixed localization and Settings loading - seems to work fine" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -102,7 +93,7 @@
       <updated>1752513399346</updated>
       <workItem from="1752513400216" duration="6741000" />
       <workItem from="1752575266128" duration="2255000" />
-      <workItem from="1752581752621" duration="1237000" />
+      <workItem from="1752581752621" duration="1281000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit">
       <option name="closed" value="true" />
